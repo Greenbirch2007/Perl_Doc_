@@ -1,226 +1,226 @@
-tc,title,url,content
-Functions for SCALARs or strings,chomp,https://perldoc.perl.org/5.32.0/functions/chomp.html,--remove-a-trailing-record-separator-from-a-string
-Functions for SCALARs or strings,chop,https://perldoc.perl.org/5.32.0/functions/chop.html,--remove-the-last-character-from-a-string
-Functions for SCALARs or strings,chr,https://perldoc.perl.org/5.32.0/functions/chr.html,--get-character-this-number-represents
-Functions for SCALARs or strings,crypt,https://perldoc.perl.org/5.32.0/functions/crypt.html,--one-way-passwd-style-encryption
-Functions for SCALARs or strings,fc,https://perldoc.perl.org/5.32.0/functions/fc.html,--return-casefolded-version-of-a-string
-Functions for SCALARs or strings,hex,https://perldoc.perl.org/5.32.0/functions/hex.html,--convert-a-hexadecimal-string-to-a-number
-Functions for SCALARs or strings,index,https://perldoc.perl.org/5.32.0/functions/index.html,--find-a-substring-within-a-string
-Functions for SCALARs or strings,lc,https://perldoc.perl.org/5.32.0/functions/lc.html,--return-lower-case-version-of-a-string
-Functions for SCALARs or strings,lcfirst,https://perldoc.perl.org/5.32.0/functions/lcfirst.html,--return-a-string-with-just-the-next-letter-in-lower-case
-Functions for SCALARs or strings,length,https://perldoc.perl.org/5.32.0/functions/length.html,--return-the-number-of-characters-in-a-string
-Functions for SCALARs or strings,oct,https://perldoc.perl.org/5.32.0/functions/oct.html,--convert-a-string-to-an-octal-number
-Functions for SCALARs or strings,ord,https://perldoc.perl.org/5.32.0/functions/ord.html,--find-a-character's-numeric-representation
-Functions for SCALARs or strings,pack,https://perldoc.perl.org/5.32.0/functions/pack.html,--convert-a-list-into-a-binary-representation
-Functions for SCALARs or strings,q/STRING/,https://perldoc.perl.org/5.32.0/functions/q.html,--singly-quote-a-string
-Functions for SCALARs or strings,qq/STRING/,https://perldoc.perl.org/5.32.0/functions/qq.html,--doubly-quote-a-string
-Functions for SCALARs or strings,reverse,https://perldoc.perl.org/5.32.0/functions/reverse.html,--flip-a-string-or-a-list
-Functions for SCALARs or strings,rindex,https://perldoc.perl.org/5.32.0/functions/rindex.html,--right-to-left-substring-search
-Functions for SCALARs or strings,sprintf,https://perldoc.perl.org/5.32.0/functions/sprintf.html,--formatted-print-into-a-string
-Functions for SCALARs or strings,substr,https://perldoc.perl.org/5.32.0/functions/substr.html,--get-or-alter-a-portion-of-a-string
-Functions for SCALARs or strings,tr///,https://perldoc.perl.org/5.32.0/functions/tr.html,--transliterate-a-string
-Functions for SCALARs or strings,uc,https://perldoc.perl.org/5.32.0/functions/uc.html,--return-upper-case-version-of-a-string
-Functions for SCALARs or strings,ucfirst,https://perldoc.perl.org/5.32.0/functions/ucfirst.html,--return-a-string-with-just-the-next-letter-in-upper-case
-Functions for SCALARs or strings,y///,https://perldoc.perl.org/5.32.0/functions/y.html,--transliterate-a-string
-Regular expressions and pattern matching,m//,https://perldoc.perl.org/5.32.0/functions/m.html,--match-a-string-with-a-regular-expression-pattern
-Regular expressions and pattern matching,pos,https://perldoc.perl.org/5.32.0/functions/pos.html,--find-or-set-the-offset-for-the-last/next-m//g-search
-Regular expressions and pattern matching,qr/STRING/,https://perldoc.perl.org/5.32.0/functions/qr.html,--compile-pattern
-Regular expressions and pattern matching,quotemeta,https://perldoc.perl.org/5.32.0/functions/quotemeta.html,--quote-regular-expression-magic-characters
-Regular expressions and pattern matching,s///,https://perldoc.perl.org/5.32.0/functions/s.html,--replace-a-pattern-with-a-string
-Regular expressions and pattern matching,split,https://perldoc.perl.org/5.32.0/functions/split.html,--split-up-a-string-using-a-regexp-delimiter
-Regular expressions and pattern matching,study,https://perldoc.perl.org/5.32.0/functions/study.html,"--no-op,-formerly-optimized-input-data-for-repeated-searches"
-Numeric functions,abs,https://perldoc.perl.org/5.32.0/functions/abs.html,--absolute-value-function
-Numeric functions,atan2,https://perldoc.perl.org/5.32.0/functions/atan2.html,--arctangent-of-Y/X-in-the-range--PI-to-PI
-Numeric functions,cos,https://perldoc.perl.org/5.32.0/functions/cos.html,--cosine-function
-Numeric functions,exp,https://perldoc.perl.org/5.32.0/functions/exp.html,--raise-I
-Functions for real @ARRAYs,each,https://perldoc.perl.org/5.32.0/functions/each.html,--retrieve-the-next-key/value-pair-from-a-hash
-Functions for real @ARRAYs,keys,https://perldoc.perl.org/5.32.0/functions/keys.html,--retrieve-list-of-indices-from-a-hash
-Functions for real @ARRAYs,pop,https://perldoc.perl.org/5.32.0/functions/pop.html,--remove-the-last-element-from-an-array-and-return-it
-Functions for real @ARRAYs,push,https://perldoc.perl.org/5.32.0/functions/push.html,--append-one-or-more-elements-to-an-array
-Functions for real @ARRAYs,shift,https://perldoc.perl.org/5.32.0/functions/shift.html,"--remove-the-first-element-of-an-array,-and-return-it"
-Functions for real @ARRAYs,splice,https://perldoc.perl.org/5.32.0/functions/splice.html,--add-or-remove-elements-anywhere-in-an-array
-Functions for real @ARRAYs,unshift,https://perldoc.perl.org/5.32.0/functions/unshift.html,--prepend-more-elements-to-the-beginning-of-a-list
-Functions for real @ARRAYs,values,https://perldoc.perl.org/5.32.0/functions/values.html,--return-a-list-of-the-values-in-a-hash
-Functions for list data,grep,https://perldoc.perl.org/5.32.0/functions/grep.html,--locate-elements-in-a-list-test-true-against-a-given-criterion
-Functions for list data,join,https://perldoc.perl.org/5.32.0/functions/join.html,--join-a-list-into-a-string-using-a-separator
-Functions for list data,map,https://perldoc.perl.org/5.32.0/functions/map.html,--apply-a-change-to-a-list-to-get-back-a-new-list-with-the-changes
-Functions for list data,qw/STRING/,https://perldoc.perl.org/5.32.0/functions/qw.html,--quote-a-list-of-words
-Functions for list data,reverse,https://perldoc.perl.org/5.32.0/functions/reverse.html,--flip-a-string-or-a-list
-Functions for list data,sort,https://perldoc.perl.org/5.32.0/functions/sort.html,--sort-a-list-of-values
-Functions for list data,unpack,https://perldoc.perl.org/5.32.0/functions/unpack.html,--convert-binary-structure-into-normal-perl-variables
-Functions for real %HASHes,delete,https://perldoc.perl.org/5.32.0/functions/delete.html,--deletes-a-value-from-a-hash
-Functions for real %HASHes,each,https://perldoc.perl.org/5.32.0/functions/each.html,--retrieve-the-next-key/value-pair-from-a-hash
-Functions for real %HASHes,exists,https://perldoc.perl.org/5.32.0/functions/exists.html,--test-whether-a-hash-key-is-present
-Functions for real %HASHes,keys,https://perldoc.perl.org/5.32.0/functions/keys.html,--retrieve-list-of-indices-from-a-hash
-Functions for real %HASHes,values,https://perldoc.perl.org/5.32.0/functions/values.html,--return-a-list-of-the-values-in-a-hash
-Input and output functions,binmode,https://perldoc.perl.org/5.32.0/functions/binmode.html,--prepare-binary-files-for-I/O
-Input and output functions,close,https://perldoc.perl.org/5.32.0/functions/close.html,--close-file-(or-pipe-or-socket)-handle
-Input and output functions,closedir,https://perldoc.perl.org/5.32.0/functions/closedir.html,--close-directory-handle
-Input and output functions,dbmclose,https://perldoc.perl.org/5.32.0/functions/dbmclose.html,--breaks-binding-on-a-tied-dbm-file
-Input and output functions,dbmopen,https://perldoc.perl.org/5.32.0/functions/dbmopen.html,--create-binding-on-a-tied-dbm-file
-Input and output functions,die,https://perldoc.perl.org/5.32.0/functions/die.html,--raise-an-exception-or-bail-out
-Input and output functions,eof,https://perldoc.perl.org/5.32.0/functions/eof.html,--test-a-filehandle-for-its-end
-Input and output functions,fileno,https://perldoc.perl.org/5.32.0/functions/fileno.html,--return-file-descriptor-from-filehandle
-Input and output functions,flock,https://perldoc.perl.org/5.32.0/functions/flock.html,--lock-an-entire-file-with-an-advisory-lock
-Input and output functions,format,https://perldoc.perl.org/5.32.0/functions/format.html,--declare-a-picture-format-with-use-by-the-write()-function
-Input and output functions,getc,https://perldoc.perl.org/5.32.0/functions/getc.html,--get-the-next-character-from-the-filehandle
-Input and output functions,print,https://perldoc.perl.org/5.32.0/functions/print.html,--output-a-list-to-a-filehandle
-Input and output functions,printf,https://perldoc.perl.org/5.32.0/functions/printf.html,--output-a-formatted-list-to-a-filehandle
-Input and output functions,read,https://perldoc.perl.org/5.32.0/functions/read.html,--fixed-length-buffered-input-from-a-filehandle
-Input and output functions,readdir,https://perldoc.perl.org/5.32.0/functions/readdir.html,--get-a-directory-from-a-directory-handle
-Input and output functions,readline,https://perldoc.perl.org/5.32.0/functions/readline.html,--fetch-a-record-from-a-file
-Input and output functions,rewinddir,https://perldoc.perl.org/5.32.0/functions/rewinddir.html,--reset-directory-handle
-Input and output functions,say,https://perldoc.perl.org/5.32.0/functions/say.html,--print-with-newline
-Input and output functions,seek,https://perldoc.perl.org/5.32.0/functions/seek.html,--reposition-file-pointer-for-random-access-I/O
-Input and output functions,seekdir,https://perldoc.perl.org/5.32.0/functions/seekdir.html,--reposition-directory-pointer
-Input and output functions,select,https://perldoc.perl.org/5.32.0/functions/select.html,--reset-default-output-or-do-I/O-multiplexing
-Input and output functions,syscall,https://perldoc.perl.org/5.32.0/functions/syscall.html,--execute-an-arbitrary-system-call
-Input and output functions,sysread,https://perldoc.perl.org/5.32.0/functions/sysread.html,--fixed-length-unbuffered-input-from-a-filehandle
-Input and output functions,sysseek,https://perldoc.perl.org/5.32.0/functions/sysseek.html,--position-I/O-pointer-on-handle-used-with-sysread-and-syswrite
-Input and output functions,syswrite,https://perldoc.perl.org/5.32.0/functions/syswrite.html,--fixed-length-unbuffered-output-to-a-filehandle
-Input and output functions,tell,https://perldoc.perl.org/5.32.0/functions/tell.html,--get-current-seekpointer-on-a-filehandle
-Input and output functions,telldir,https://perldoc.perl.org/5.32.0/functions/telldir.html,--get-current-seekpointer-on-a-directory-handle
-Input and output functions,truncate,https://perldoc.perl.org/5.32.0/functions/truncate.html,--shorten-a-file
-Input and output functions,warn,https://perldoc.perl.org/5.32.0/functions/warn.html,--print-debugging-info
-Input and output functions,write,https://perldoc.perl.org/5.32.0/functions/write.html,--print-a-picture-record
-Functions for fixed-length data or records,pack,https://perldoc.perl.org/5.32.0/functions/pack.html,--convert-a-list-into-a-binary-representation
-Functions for fixed-length data or records,read,https://perldoc.perl.org/5.32.0/functions/read.html,--fixed-length-buffered-input-from-a-filehandle
-Functions for fixed-length data or records,syscall,https://perldoc.perl.org/5.32.0/functions/syscall.html,--execute-an-arbitrary-system-call
-Functions for fixed-length data or records,sysread,https://perldoc.perl.org/5.32.0/functions/sysread.html,--fixed-length-unbuffered-input-from-a-filehandle
-Functions for fixed-length data or records,sysseek,https://perldoc.perl.org/5.32.0/functions/sysseek.html,--position-I/O-pointer-on-handle-used-with-sysread-and-syswrite
-Functions for fixed-length data or records,syswrite,https://perldoc.perl.org/5.32.0/functions/syswrite.html,--fixed-length-unbuffered-output-to-a-filehandle
-Functions for fixed-length data or records,unpack,https://perldoc.perl.org/5.32.0/functions/unpack.html,--convert-binary-structure-into-normal-perl-variables
-Functions for fixed-length data or records,vec,https://perldoc.perl.org/5.32.0/functions/vec.html,--test-or-set-particular-bits-in-a-string
-"Functions for filehandles, files, or directories",-X,https://perldoc.perl.org/5.32.0/functions/-X.html,"--a-file-test-(-r,--x,-etc)"
-"Functions for filehandles, files, or directories",chdir,https://perldoc.perl.org/5.32.0/functions/chdir.html,--change-your-current-working-directory
-"Functions for filehandles, files, or directories",chmod,https://perldoc.perl.org/5.32.0/functions/chmod.html,--changes-the-permissions-on-a-list-of-files
-"Functions for filehandles, files, or directories",chown,https://perldoc.perl.org/5.32.0/functions/chown.html,--change-the-ownership-on-a-list-of-files
-"Functions for filehandles, files, or directories",chroot,https://perldoc.perl.org/5.32.0/functions/chroot.html,--make-directory-new-root-for-path-lookups
-"Functions for filehandles, files, or directories",fcntl,https://perldoc.perl.org/5.32.0/functions/fcntl.html,--file-control-system-call
-"Functions for filehandles, files, or directories",glob,https://perldoc.perl.org/5.32.0/functions/glob.html,--expand-filenames-using-wildcards
-"Functions for filehandles, files, or directories",ioctl,https://perldoc.perl.org/5.32.0/functions/ioctl.html,--system-dependent-device-control-system-call
-"Functions for filehandles, files, or directories",link,https://perldoc.perl.org/5.32.0/functions/link.html,--create-a-hard-link-in-the-filesystem
-"Functions for filehandles, files, or directories",lstat,https://perldoc.perl.org/5.32.0/functions/lstat.html,--stat-a-symbolic-link
-"Functions for filehandles, files, or directories",mkdir,https://perldoc.perl.org/5.32.0/functions/mkdir.html,--create-a-directory
-"Functions for filehandles, files, or directories",open,https://perldoc.perl.org/5.32.0/functions/open.html,"--open-a-file,-pipe,-or-descriptor"
-"Functions for filehandles, files, or directories",opendir,https://perldoc.perl.org/5.32.0/functions/opendir.html,--open-a-directory
-"Functions for filehandles, files, or directories",readlink,https://perldoc.perl.org/5.32.0/functions/readlink.html,--determine-where-a-symbolic-link-is-pointing
-"Functions for filehandles, files, or directories",rename,https://perldoc.perl.org/5.32.0/functions/rename.html,--change-a-filename
-"Functions for filehandles, files, or directories",rmdir,https://perldoc.perl.org/5.32.0/functions/rmdir.html,--remove-a-directory
-"Functions for filehandles, files, or directories",select,https://perldoc.perl.org/5.32.0/functions/select.html,--reset-default-output-or-do-I/O-multiplexing
-"Functions for filehandles, files, or directories",stat,https://perldoc.perl.org/5.32.0/functions/stat.html,--get-a-file's-status-information
-"Functions for filehandles, files, or directories",symlink,https://perldoc.perl.org/5.32.0/functions/symlink.html,--create-a-symbolic-link-to-a-file
-"Functions for filehandles, files, or directories",sysopen,https://perldoc.perl.org/5.32.0/functions/sysopen.html,"--open-a-file,-pipe,-or-descriptor"
-"Functions for filehandles, files, or directories",umask,https://perldoc.perl.org/5.32.0/functions/umask.html,--set-file-creation-mode-mask
-"Functions for filehandles, files, or directories",unlink,https://perldoc.perl.org/5.32.0/functions/unlink.html,--remove-one-link-to-a-file
-"Functions for filehandles, files, or directories",utime,https://perldoc.perl.org/5.32.0/functions/utime.html,--set-a-file's-last-access-and-modify-times
-Keywords related to the control flow of your Perl program,__FILE__,https://perldoc.perl.org/5.32.0/functions/__FILE__.html,--the-name-of-the-current-source-file
-Keywords related to the control flow of your Perl program,__LINE__,https://perldoc.perl.org/5.32.0/functions/__LINE__.html,--the-current-source-line-number
-Keywords related to the control flow of your Perl program,__PACKAGE__,https://perldoc.perl.org/5.32.0/functions/__PACKAGE__.html,--the-current-package
-Keywords related to the control flow of your Perl program,__SUB__,https://perldoc.perl.org/5.32.0/functions/__SUB__.html,"--the-current-subroutine,-or-C"
-Keywords related to scoping,caller,https://perldoc.perl.org/5.32.0/functions/caller.html,--get-context-of-the-current-subroutine-call
-Keywords related to scoping,import,https://perldoc.perl.org/5.32.0/functions/import.html,--patch-a-module's-namespace-into-your-own
-Keywords related to scoping,local,https://perldoc.perl.org/5.32.0/functions/local.html,--create-a-temporary-value-for-a-global-variable-(dynamic-scoping)
-Keywords related to scoping,my,https://perldoc.perl.org/5.32.0/functions/my.html,--declare-and-assign-a-local-variable-(lexical-scoping)
-Keywords related to scoping,our,https://perldoc.perl.org/5.32.0/functions/our.html,--declare-and-assign-a-package-variable-(lexical-scoping)
-Keywords related to scoping,package,https://perldoc.perl.org/5.32.0/functions/package.html,--declare-a-separate-global-namespace
-Keywords related to scoping,state,https://perldoc.perl.org/5.32.0/functions/state.html,--declare-and-assign-a-state-variable-(persistent-lexical-scoping)
-Keywords related to scoping,use,https://perldoc.perl.org/5.32.0/functions/use.html,--load-in-a-module-at-compile-time-and-import-its-namespace
-Miscellaneous functions,defined,https://perldoc.perl.org/5.32.0/functions/defined.html,"--test-whether-a-value,-variable,-or-function-is-defined"
-Miscellaneous functions,formline,https://perldoc.perl.org/5.32.0/functions/formline.html,--internal-function-used-for-formats
-Miscellaneous functions,lock,https://perldoc.perl.org/5.32.0/functions/lock.html,"--get-a-thread-lock-on-a-variable,-subroutine,-or-method"
-Miscellaneous functions,prototype,https://perldoc.perl.org/5.32.0/functions/prototype.html,--get-the-prototype-(if-any)-of-a-subroutine
-Miscellaneous functions,reset,https://perldoc.perl.org/5.32.0/functions/reset.html,--clear-all-variables-of-a-given-name
-Miscellaneous functions,scalar,https://perldoc.perl.org/5.32.0/functions/scalar.html,--force-a-scalar-context
-Miscellaneous functions,undef,https://perldoc.perl.org/5.32.0/functions/undef.html,--remove-a-variable-or-function-definition
-Functions for processes and process groups,alarm,https://perldoc.perl.org/5.32.0/functions/alarm.html,--schedule-a-SIGALRM
-Functions for processes and process groups,exec,https://perldoc.perl.org/5.32.0/functions/exec.html,--abandon-this-program-to-run-another
-Functions for processes and process groups,fork,https://perldoc.perl.org/5.32.0/functions/fork.html,--create-a-new-process-just-like-this-one
-Functions for processes and process groups,getpgrp,https://perldoc.perl.org/5.32.0/functions/getpgrp.html,--get-process-group
-Functions for processes and process groups,getppid,https://perldoc.perl.org/5.32.0/functions/getppid.html,--get-parent-process-ID
-Functions for processes and process groups,getpriority,https://perldoc.perl.org/5.32.0/functions/getpriority.html,--get-current-nice-value
-Functions for processes and process groups,kill,https://perldoc.perl.org/5.32.0/functions/kill.html,--send-a-signal-to-a-process-or-process-group
-Functions for processes and process groups,pipe,https://perldoc.perl.org/5.32.0/functions/pipe.html,--open-a-pair-of-connected-filehandles
-Functions for processes and process groups,qx/STRING/,https://perldoc.perl.org/5.32.0/functions/qx.html,--backquote-quote-a-string
-Functions for processes and process groups,readpipe,https://perldoc.perl.org/5.32.0/functions/readpipe.html,--execute-a-system-command-and-collect-standard-output
-Functions for processes and process groups,setpgrp,https://perldoc.perl.org/5.32.0/functions/setpgrp.html,--set-the-process-group-of-a-process
-Functions for processes and process groups,setpriority,https://perldoc.perl.org/5.32.0/functions/setpriority.html,--set-a-process's-nice-value
-Functions for processes and process groups,sleep,https://perldoc.perl.org/5.32.0/functions/sleep.html,--block-for-some-number-of-seconds
-Functions for processes and process groups,system,https://perldoc.perl.org/5.32.0/functions/system.html,--run-a-separate-program
-Functions for processes and process groups,times,https://perldoc.perl.org/5.32.0/functions/times.html,--return-elapsed-time-for-self-and-child-processes
-Functions for processes and process groups,wait,https://perldoc.perl.org/5.32.0/functions/wait.html,--wait-for-any-child-process-to-die
-Functions for processes and process groups,waitpid,https://perldoc.perl.org/5.32.0/functions/waitpid.html,--wait-for-a-particular-child-process-to-die
-Keywords related to Perl modules,do,https://perldoc.perl.org/5.32.0/functions/do.html,--turn-a-BLOCK-into-a-TERM
-Keywords related to Perl modules,import,https://perldoc.perl.org/5.32.0/functions/import.html,--patch-a-module's-namespace-into-your-own
-Keywords related to Perl modules,no,https://perldoc.perl.org/5.32.0/functions/no.html,--unimport-some-module-symbols-or-semantics-at-compile-time
-Keywords related to Perl modules,package,https://perldoc.perl.org/5.32.0/functions/package.html,--declare-a-separate-global-namespace
-Keywords related to Perl modules,require,https://perldoc.perl.org/5.32.0/functions/require.html,--load-in-external-functions-from-a-library-at-runtime
-Keywords related to Perl modules,use,https://perldoc.perl.org/5.32.0/functions/use.html,--load-in-a-module-at-compile-time-and-import-its-namespace
-Keywords related to classes and object-orientation,bless,https://perldoc.perl.org/5.32.0/functions/bless.html,--create-an-object
-Keywords related to classes and object-orientation,dbmclose,https://perldoc.perl.org/5.32.0/functions/dbmclose.html,--breaks-binding-on-a-tied-dbm-file
-Keywords related to classes and object-orientation,dbmopen,https://perldoc.perl.org/5.32.0/functions/dbmopen.html,--create-binding-on-a-tied-dbm-file
-Keywords related to classes and object-orientation,package,https://perldoc.perl.org/5.32.0/functions/package.html,--declare-a-separate-global-namespace
-Keywords related to classes and object-orientation,ref,https://perldoc.perl.org/5.32.0/functions/ref.html,--find-out-the-type-of-thing-being-referenced
-Keywords related to classes and object-orientation,tie,https://perldoc.perl.org/5.32.0/functions/tie.html,--bind-a-variable-to-an-object-class
-Keywords related to classes and object-orientation,tied,https://perldoc.perl.org/5.32.0/functions/tied.html,--get-a-reference-to-the-object-underlying-a-tied-variable
-Keywords related to classes and object-orientation,untie,https://perldoc.perl.org/5.32.0/functions/untie.html,--break-a-tie-binding-to-a-variable
-Keywords related to classes and object-orientation,use,https://perldoc.perl.org/5.32.0/functions/use.html,--load-in-a-module-at-compile-time-and-import-its-namespace
-Low-level socket functions,accept,https://perldoc.perl.org/5.32.0/functions/accept.html,--accept-an-incoming-socket-connect
-Low-level socket functions,bind,https://perldoc.perl.org/5.32.0/functions/bind.html,--binds-an-address-to-a-socket
-Low-level socket functions,connect,https://perldoc.perl.org/5.32.0/functions/connect.html,--connect-to-a-remote-socket
-Low-level socket functions,getpeername,https://perldoc.perl.org/5.32.0/functions/getpeername.html,--find-the-other-end-of-a-socket-connection
-Low-level socket functions,getsockname,https://perldoc.perl.org/5.32.0/functions/getsockname.html,--retrieve-the-sockaddr-for-a-given-socket
-Low-level socket functions,getsockopt,https://perldoc.perl.org/5.32.0/functions/getsockopt.html,--get-socket-options-on-a-given-socket
-Low-level socket functions,listen,https://perldoc.perl.org/5.32.0/functions/listen.html,--register-your-socket-as-a-server
-Low-level socket functions,recv,https://perldoc.perl.org/5.32.0/functions/recv.html,--receive-a-message-over-a-Socket
-Low-level socket functions,send,https://perldoc.perl.org/5.32.0/functions/send.html,--send-a-message-over-a-socket
-Low-level socket functions,setsockopt,https://perldoc.perl.org/5.32.0/functions/setsockopt.html,--set-some-socket-options
-Low-level socket functions,shutdown,https://perldoc.perl.org/5.32.0/functions/shutdown.html,--close-down-just-half-of-a-socket-connection
-Low-level socket functions,socket,https://perldoc.perl.org/5.32.0/functions/socket.html,--create-a-socket
-Low-level socket functions,socketpair,https://perldoc.perl.org/5.32.0/functions/socketpair.html,--create-a-pair-of-sockets
-System V interprocess communication functions,msgctl,https://perldoc.perl.org/5.32.0/functions/msgctl.html,--SysV-IPC-message-control-operations
-System V interprocess communication functions,msgget,https://perldoc.perl.org/5.32.0/functions/msgget.html,--get-SysV-IPC-message-queue
-System V interprocess communication functions,msgrcv,https://perldoc.perl.org/5.32.0/functions/msgrcv.html,--receive-a-SysV-IPC-message-from-a-message-queue
-System V interprocess communication functions,msgsnd,https://perldoc.perl.org/5.32.0/functions/msgsnd.html,--send-a-SysV-IPC-message-to-a-message-queue
-System V interprocess communication functions,semctl,https://perldoc.perl.org/5.32.0/functions/semctl.html,--SysV-semaphore-control-operations
-System V interprocess communication functions,semget,https://perldoc.perl.org/5.32.0/functions/semget.html,--get-set-of-SysV-semaphores
-System V interprocess communication functions,semop,https://perldoc.perl.org/5.32.0/functions/semop.html,--SysV-semaphore-operations
-System V interprocess communication functions,shmctl,https://perldoc.perl.org/5.32.0/functions/shmctl.html,--SysV-shared-memory-operations
-System V interprocess communication functions,shmget,https://perldoc.perl.org/5.32.0/functions/shmget.html,--get-SysV-shared-memory-segment-identifier
-System V interprocess communication functions,shmread,https://perldoc.perl.org/5.32.0/functions/shmread.html,--read-SysV-shared-memory
-System V interprocess communication functions,shmwrite,https://perldoc.perl.org/5.32.0/functions/shmwrite.html,--write-SysV-shared-memory
-Fetching user and group info,endgrent,https://perldoc.perl.org/5.32.0/functions/endgrent.html,--be-done-using-group-file
-Fetching user and group info,endhostent,https://perldoc.perl.org/5.32.0/functions/endhostent.html,--be-done-using-hosts-file
-Fetching user and group info,endnetent,https://perldoc.perl.org/5.32.0/functions/endnetent.html,--be-done-using-networks-file
-Fetching user and group info,endpwent,https://perldoc.perl.org/5.32.0/functions/endpwent.html,--be-done-using-passwd-file
-Fetching user and group info,getgrent,https://perldoc.perl.org/5.32.0/functions/getgrent.html,--get-next-group-record
-Fetching user and group info,getgrgid,https://perldoc.perl.org/5.32.0/functions/getgrgid.html,--get-group-record-given-group-user-ID
-Fetching user and group info,getgrnam,https://perldoc.perl.org/5.32.0/functions/getgrnam.html,--get-group-record-given-group-name
-Fetching user and group info,getlogin,https://perldoc.perl.org/5.32.0/functions/getlogin.html,--return-who-logged-in-at-this-tty
-Fetching user and group info,getpwent,https://perldoc.perl.org/5.32.0/functions/getpwent.html,--get-next-passwd-record
-Fetching user and group info,getpwnam,https://perldoc.perl.org/5.32.0/functions/getpwnam.html,--get-passwd-record-given-user-login-name
-Fetching user and group info,getpwuid,https://perldoc.perl.org/5.32.0/functions/getpwuid.html,--get-passwd-record-given-user-ID
-Fetching user and group info,setgrent,https://perldoc.perl.org/5.32.0/functions/setgrent.html,--prepare-group-file-for-use
-Fetching user and group info,setpwent,https://perldoc.perl.org/5.32.0/functions/setpwent.html,--prepare-passwd-file-for-use
-Fetching network info,endprotoent,https://perldoc.perl.org/5.32.0/functions/endprotoent.html,--be-done-using-protocols-file
-Fetching network info,endservent,https://perldoc.perl.org/5.32.0/functions/endservent.html,--be-done-using-services-file
-Fetching network info,gethostbyaddr,https://perldoc.perl.org/5.32.0/functions/gethostbyaddr.html,--get-host-record-given-its-address
-Fetching network info,gethostbyname,https://perldoc.perl.org/5.32.0/functions/gethostbyname.html,--get-host-record-given-name
-Fetching network info,gethostent,https://perldoc.perl.org/5.32.0/functions/gethostent.html,--get-next-hosts-record
-Fetching network info,getnetbyaddr,https://perldoc.perl.org/5.32.0/functions/getnetbyaddr.html,--get-network-record-given-its-address
-Fetching network info,getnetbyname,https://perldoc.perl.org/5.32.0/functions/getnetbyname.html,--get-networks-record-given-name
-Fetching network info,getnetent,https://perldoc.perl.org/5.32.0/functions/getnetent.html,--get-next-networks-record
-Fetching network info,getprotobyname,https://perldoc.perl.org/5.32.0/functions/getprotobyname.html,--get-protocol-record-given-name
-Fetching network info,getprotobynumber,https://perldoc.perl.org/5.32.0/functions/getprotobynumber.html,--get-protocol-record-numeric-protocol
-Fetching network info,getprotoent,https://perldoc.perl.org/5.32.0/functions/getprotoent.html,--get-next-protocols-record
-Fetching network info,getservbyname,https://perldoc.perl.org/5.32.0/functions/getservbyname.html,--get-services-record-given-its-name
-Fetching network info,getservbyport,https://perldoc.perl.org/5.32.0/functions/getservbyport.html,--get-services-record-given-numeric-port
-Fetching network info,getservent,https://perldoc.perl.org/5.32.0/functions/getservent.html,--get-next-services-record
-Fetching network info,sethostent,https://perldoc.perl.org/5.32.0/functions/sethostent.html,--prepare-hosts-file-for-use
-Fetching network info,setnetent,https://perldoc.perl.org/5.32.0/functions/setnetent.html,--prepare-networks-file-for-use
-Fetching network info,setprotoent,https://perldoc.perl.org/5.32.0/functions/setprotoent.html,--prepare-protocols-file-for-use
-Fetching network info,setservent,https://perldoc.perl.org/5.32.0/functions/setservent.html,--prepare-services-file-for-use
-Time-related functions,gmtime,https://perldoc.perl.org/5.32.0/functions/gmtime.html,--convert-UNIX-time-into-record-or-string-using-Greenwich-time
-Time-related functions,localtime,https://perldoc.perl.org/5.32.0/functions/localtime.html,--convert-UNIX-time-into-record-or-string-using-local-time
-Time-related functions,time,https://perldoc.perl.org/5.32.0/functions/time.html,--return-number-of-seconds-since-1970
-Time-related functions,times,https://perldoc.perl.org/5.32.0/functions/times.html,--return-elapsed-time-for-self-and-child-processes
+tc,title,url,content,
+Functions for SCALARs or strings,chomp,https://perldoc.perl.org/5.32.0/functions/chomp.html,--remove-a-trailing-record-separator-from-a-string,
+Functions for SCALARs or strings,chop,https://perldoc.perl.org/5.32.0/functions/chop.html,--remove-the-last-character-from-a-string,
+Functions for SCALARs or strings,chr,https://perldoc.perl.org/5.32.0/functions/chr.html,--get-character-this-number-represents,
+Functions for SCALARs or strings,crypt,https://perldoc.perl.org/5.32.0/functions/crypt.html,=--one-way-passwd-style-encryption,
+Functions for SCALARs or strings,fc,https://perldoc.perl.org/5.32.0/functions/fc.html,=--return-casefolded-version-of-a-string,2020.8.24
+Functions for SCALARs or strings,hex,https://perldoc.perl.org/5.32.0/functions/hex.html,=--convert-a-hexadecimal-string-to-a-number,
+Functions for SCALARs or strings,index,https://perldoc.perl.org/5.32.0/functions/index.html,=--find-a-substring-within-a-string,
+Functions for SCALARs or strings,lc,https://perldoc.perl.org/5.32.0/functions/lc.html,=--return-lower-case-version-of-a-string,
+Functions for SCALARs or strings,lcfirst,https://perldoc.perl.org/5.32.0/functions/lcfirst.html,=--return-a-string-with-just-the-next-letter-in-lower-case,
+Functions for SCALARs or strings,length,https://perldoc.perl.org/5.32.0/functions/length.html,=--return-the-number-of-characters-in-a-string,
+Functions for SCALARs or strings,oct,https://perldoc.perl.org/5.32.0/functions/oct.html,=--convert-a-string-to-an-octal-number,
+Functions for SCALARs or strings,ord,https://perldoc.perl.org/5.32.0/functions/ord.html,--find-a-character's-numeric-representation,
+Functions for SCALARs or strings,pack,https://perldoc.perl.org/5.32.0/functions/pack.html,=--convert-a-list-into-a-binary-representation,
+Functions for SCALARs or strings,q/STRING/,https://perldoc.perl.org/5.32.0/functions/q.html,=--singly-quote-a-string,
+Functions for SCALARs or strings,qq/STRING/,https://perldoc.perl.org/5.32.0/functions/qq.html,=--doubly-quote-a-string,
+Functions for SCALARs or strings,reverse,https://perldoc.perl.org/5.32.0/functions/reverse.html,=--flip-a-string-or-a-list,
+Functions for SCALARs or strings,rindex,https://perldoc.perl.org/5.32.0/functions/rindex.html,=--right-to-left-substring-search,
+Functions for SCALARs or strings,sprintf,https://perldoc.perl.org/5.32.0/functions/sprintf.html,=--formatted-print-into-a-string,
+Functions for SCALARs or strings,substr,https://perldoc.perl.org/5.32.0/functions/substr.html,=--get-or-alter-a-portion-of-a-string,
+Functions for SCALARs or strings,tr///,https://perldoc.perl.org/5.32.0/functions/tr.html,=--transliterate-a-string,
+Functions for SCALARs or strings,uc,https://perldoc.perl.org/5.32.0/functions/uc.html,=--return-upper-case-version-of-a-string,
+Functions for SCALARs or strings,ucfirst,https://perldoc.perl.org/5.32.0/functions/ucfirst.html,=--return-a-string-with-just-the-next-letter-in-upper-case,
+Functions for SCALARs or strings,y///,https://perldoc.perl.org/5.32.0/functions/y.html,=--transliterate-a-string,
+Regular expressions and pattern matching,m//,https://perldoc.perl.org/5.32.0/functions/m.html,=--match-a-string-with-a-regular-expression-pattern,
+Regular expressions and pattern matching,pos,https://perldoc.perl.org/5.32.0/functions/pos.html,--find-or-set-the-offset-for-the-last/next-m//g-search,
+Regular expressions and pattern matching,qr/STRING/,https://perldoc.perl.org/5.32.0/functions/qr.html,#NAME?,
+Regular expressions and pattern matching,quotemeta,https://perldoc.perl.org/5.32.0/functions/quotemeta.html,#NAME?,
+Regular expressions and pattern matching,s///,https://perldoc.perl.org/5.32.0/functions/s.html,#NAME?,
+Regular expressions and pattern matching,split,https://perldoc.perl.org/5.32.0/functions/split.html,#NAME?,
+Regular expressions and pattern matching,study,https://perldoc.perl.org/5.32.0/functions/study.html,"--no-op,-formerly-optimized-input-data-for-repeated-searches",
+Numeric functions,abs,https://perldoc.perl.org/5.32.0/functions/abs.html,#NAME?,
+Numeric functions,atan2,https://perldoc.perl.org/5.32.0/functions/atan2.html,#NAME?,
+Numeric functions,cos,https://perldoc.perl.org/5.32.0/functions/cos.html,#NAME?,
+Numeric functions,exp,https://perldoc.perl.org/5.32.0/functions/exp.html,#NAME?,
+Functions for real @ARRAYs,each,https://perldoc.perl.org/5.32.0/functions/each.html,#NAME?,
+Functions for real @ARRAYs,keys,https://perldoc.perl.org/5.32.0/functions/keys.html,#NAME?,
+Functions for real @ARRAYs,pop,https://perldoc.perl.org/5.32.0/functions/pop.html,#NAME?,
+Functions for real @ARRAYs,push,https://perldoc.perl.org/5.32.0/functions/push.html,#NAME?,
+Functions for real @ARRAYs,shift,https://perldoc.perl.org/5.32.0/functions/shift.html,"--remove-the-first-element-of-an-array,-and-return-it",
+Functions for real @ARRAYs,splice,https://perldoc.perl.org/5.32.0/functions/splice.html,#NAME?,
+Functions for real @ARRAYs,unshift,https://perldoc.perl.org/5.32.0/functions/unshift.html,#NAME?,
+Functions for real @ARRAYs,values,https://perldoc.perl.org/5.32.0/functions/values.html,#NAME?,
+Functions for list data,grep,https://perldoc.perl.org/5.32.0/functions/grep.html,#NAME?,
+Functions for list data,join,https://perldoc.perl.org/5.32.0/functions/join.html,#NAME?,
+Functions for list data,map,https://perldoc.perl.org/5.32.0/functions/map.html,#NAME?,
+Functions for list data,qw/STRING/,https://perldoc.perl.org/5.32.0/functions/qw.html,#NAME?,
+Functions for list data,reverse,https://perldoc.perl.org/5.32.0/functions/reverse.html,#NAME?,
+Functions for list data,sort,https://perldoc.perl.org/5.32.0/functions/sort.html,#NAME?,
+Functions for list data,unpack,https://perldoc.perl.org/5.32.0/functions/unpack.html,#NAME?,
+Functions for real %HASHes,delete,https://perldoc.perl.org/5.32.0/functions/delete.html,#NAME?,
+Functions for real %HASHes,each,https://perldoc.perl.org/5.32.0/functions/each.html,#NAME?,
+Functions for real %HASHes,exists,https://perldoc.perl.org/5.32.0/functions/exists.html,#NAME?,
+Functions for real %HASHes,keys,https://perldoc.perl.org/5.32.0/functions/keys.html,#NAME?,
+Functions for real %HASHes,values,https://perldoc.perl.org/5.32.0/functions/values.html,#NAME?,
+Input and output functions,binmode,https://perldoc.perl.org/5.32.0/functions/binmode.html,#NAME?,
+Input and output functions,close,https://perldoc.perl.org/5.32.0/functions/close.html,#NAME?,
+Input and output functions,closedir,https://perldoc.perl.org/5.32.0/functions/closedir.html,#NAME?,
+Input and output functions,dbmclose,https://perldoc.perl.org/5.32.0/functions/dbmclose.html,#NAME?,
+Input and output functions,dbmopen,https://perldoc.perl.org/5.32.0/functions/dbmopen.html,#NAME?,
+Input and output functions,die,https://perldoc.perl.org/5.32.0/functions/die.html,#NAME?,
+Input and output functions,eof,https://perldoc.perl.org/5.32.0/functions/eof.html,#NAME?,
+Input and output functions,fileno,https://perldoc.perl.org/5.32.0/functions/fileno.html,#NAME?,
+Input and output functions,flock,https://perldoc.perl.org/5.32.0/functions/flock.html,#NAME?,
+Input and output functions,format,https://perldoc.perl.org/5.32.0/functions/format.html,#NAME?,
+Input and output functions,getc,https://perldoc.perl.org/5.32.0/functions/getc.html,#NAME?,
+Input and output functions,print,https://perldoc.perl.org/5.32.0/functions/print.html,#NAME?,
+Input and output functions,printf,https://perldoc.perl.org/5.32.0/functions/printf.html,#NAME?,
+Input and output functions,read,https://perldoc.perl.org/5.32.0/functions/read.html,#NAME?,
+Input and output functions,readdir,https://perldoc.perl.org/5.32.0/functions/readdir.html,#NAME?,
+Input and output functions,readline,https://perldoc.perl.org/5.32.0/functions/readline.html,#NAME?,
+Input and output functions,rewinddir,https://perldoc.perl.org/5.32.0/functions/rewinddir.html,#NAME?,
+Input and output functions,say,https://perldoc.perl.org/5.32.0/functions/say.html,#NAME?,
+Input and output functions,seek,https://perldoc.perl.org/5.32.0/functions/seek.html,#NAME?,
+Input and output functions,seekdir,https://perldoc.perl.org/5.32.0/functions/seekdir.html,#NAME?,
+Input and output functions,select,https://perldoc.perl.org/5.32.0/functions/select.html,#NAME?,
+Input and output functions,syscall,https://perldoc.perl.org/5.32.0/functions/syscall.html,#NAME?,
+Input and output functions,sysread,https://perldoc.perl.org/5.32.0/functions/sysread.html,#NAME?,
+Input and output functions,sysseek,https://perldoc.perl.org/5.32.0/functions/sysseek.html,#NAME?,
+Input and output functions,syswrite,https://perldoc.perl.org/5.32.0/functions/syswrite.html,#NAME?,
+Input and output functions,tell,https://perldoc.perl.org/5.32.0/functions/tell.html,#NAME?,
+Input and output functions,telldir,https://perldoc.perl.org/5.32.0/functions/telldir.html,#NAME?,
+Input and output functions,truncate,https://perldoc.perl.org/5.32.0/functions/truncate.html,#NAME?,
+Input and output functions,warn,https://perldoc.perl.org/5.32.0/functions/warn.html,#NAME?,
+Input and output functions,write,https://perldoc.perl.org/5.32.0/functions/write.html,#NAME?,
+Functions for fixed-length data or records,pack,https://perldoc.perl.org/5.32.0/functions/pack.html,#NAME?,
+Functions for fixed-length data or records,read,https://perldoc.perl.org/5.32.0/functions/read.html,#NAME?,
+Functions for fixed-length data or records,syscall,https://perldoc.perl.org/5.32.0/functions/syscall.html,#NAME?,
+Functions for fixed-length data or records,sysread,https://perldoc.perl.org/5.32.0/functions/sysread.html,#NAME?,
+Functions for fixed-length data or records,sysseek,https://perldoc.perl.org/5.32.0/functions/sysseek.html,#NAME?,
+Functions for fixed-length data or records,syswrite,https://perldoc.perl.org/5.32.0/functions/syswrite.html,#NAME?,
+Functions for fixed-length data or records,unpack,https://perldoc.perl.org/5.32.0/functions/unpack.html,#NAME?,
+Functions for fixed-length data or records,vec,https://perldoc.perl.org/5.32.0/functions/vec.html,#NAME?,
+"Functions for filehandles, files, or directories",#NAME?,https://perldoc.perl.org/5.32.0/functions/-X.html,"--a-file-test-(-r,--x,-etc)",
+"Functions for filehandles, files, or directories",chdir,https://perldoc.perl.org/5.32.0/functions/chdir.html,#NAME?,
+"Functions for filehandles, files, or directories",chmod,https://perldoc.perl.org/5.32.0/functions/chmod.html,#NAME?,
+"Functions for filehandles, files, or directories",chown,https://perldoc.perl.org/5.32.0/functions/chown.html,#NAME?,
+"Functions for filehandles, files, or directories",chroot,https://perldoc.perl.org/5.32.0/functions/chroot.html,#NAME?,
+"Functions for filehandles, files, or directories",fcntl,https://perldoc.perl.org/5.32.0/functions/fcntl.html,#NAME?,
+"Functions for filehandles, files, or directories",glob,https://perldoc.perl.org/5.32.0/functions/glob.html,#NAME?,
+"Functions for filehandles, files, or directories",ioctl,https://perldoc.perl.org/5.32.0/functions/ioctl.html,#NAME?,
+"Functions for filehandles, files, or directories",link,https://perldoc.perl.org/5.32.0/functions/link.html,#NAME?,
+"Functions for filehandles, files, or directories",lstat,https://perldoc.perl.org/5.32.0/functions/lstat.html,#NAME?,
+"Functions for filehandles, files, or directories",mkdir,https://perldoc.perl.org/5.32.0/functions/mkdir.html,#NAME?,
+"Functions for filehandles, files, or directories",open,https://perldoc.perl.org/5.32.0/functions/open.html,"--open-a-file,-pipe,-or-descriptor",
+"Functions for filehandles, files, or directories",opendir,https://perldoc.perl.org/5.32.0/functions/opendir.html,#NAME?,
+"Functions for filehandles, files, or directories",readlink,https://perldoc.perl.org/5.32.0/functions/readlink.html,#NAME?,
+"Functions for filehandles, files, or directories",rename,https://perldoc.perl.org/5.32.0/functions/rename.html,#NAME?,
+"Functions for filehandles, files, or directories",rmdir,https://perldoc.perl.org/5.32.0/functions/rmdir.html,#NAME?,
+"Functions for filehandles, files, or directories",select,https://perldoc.perl.org/5.32.0/functions/select.html,#NAME?,
+"Functions for filehandles, files, or directories",stat,https://perldoc.perl.org/5.32.0/functions/stat.html,--get-a-file's-status-information,
+"Functions for filehandles, files, or directories",symlink,https://perldoc.perl.org/5.32.0/functions/symlink.html,#NAME?,
+"Functions for filehandles, files, or directories",sysopen,https://perldoc.perl.org/5.32.0/functions/sysopen.html,"--open-a-file,-pipe,-or-descriptor",
+"Functions for filehandles, files, or directories",umask,https://perldoc.perl.org/5.32.0/functions/umask.html,#NAME?,
+"Functions for filehandles, files, or directories",unlink,https://perldoc.perl.org/5.32.0/functions/unlink.html,#NAME?,
+"Functions for filehandles, files, or directories",utime,https://perldoc.perl.org/5.32.0/functions/utime.html,--set-a-file's-last-access-and-modify-times,
+Keywords related to the control flow of your Perl program,__FILE__,https://perldoc.perl.org/5.32.0/functions/__FILE__.html,#NAME?,
+Keywords related to the control flow of your Perl program,__LINE__,https://perldoc.perl.org/5.32.0/functions/__LINE__.html,#NAME?,
+Keywords related to the control flow of your Perl program,__PACKAGE__,https://perldoc.perl.org/5.32.0/functions/__PACKAGE__.html,#NAME?,
+Keywords related to the control flow of your Perl program,__SUB__,https://perldoc.perl.org/5.32.0/functions/__SUB__.html,"--the-current-subroutine,-or-C",
+Keywords related to scoping,caller,https://perldoc.perl.org/5.32.0/functions/caller.html,#NAME?,
+Keywords related to scoping,import,https://perldoc.perl.org/5.32.0/functions/import.html,--patch-a-module's-namespace-into-your-own,
+Keywords related to scoping,local,https://perldoc.perl.org/5.32.0/functions/local.html,#NAME?,
+Keywords related to scoping,my,https://perldoc.perl.org/5.32.0/functions/my.html,#NAME?,
+Keywords related to scoping,our,https://perldoc.perl.org/5.32.0/functions/our.html,#NAME?,
+Keywords related to scoping,package,https://perldoc.perl.org/5.32.0/functions/package.html,#NAME?,
+Keywords related to scoping,state,https://perldoc.perl.org/5.32.0/functions/state.html,#NAME?,
+Keywords related to scoping,use,https://perldoc.perl.org/5.32.0/functions/use.html,#NAME?,
+Miscellaneous functions,defined,https://perldoc.perl.org/5.32.0/functions/defined.html,"--test-whether-a-value,-variable,-or-function-is-defined",
+Miscellaneous functions,formline,https://perldoc.perl.org/5.32.0/functions/formline.html,#NAME?,
+Miscellaneous functions,lock,https://perldoc.perl.org/5.32.0/functions/lock.html,"--get-a-thread-lock-on-a-variable,-subroutine,-or-method",
+Miscellaneous functions,prototype,https://perldoc.perl.org/5.32.0/functions/prototype.html,#NAME?,
+Miscellaneous functions,reset,https://perldoc.perl.org/5.32.0/functions/reset.html,#NAME?,
+Miscellaneous functions,scalar,https://perldoc.perl.org/5.32.0/functions/scalar.html,#NAME?,
+Miscellaneous functions,undef,https://perldoc.perl.org/5.32.0/functions/undef.html,#NAME?,
+Functions for processes and process groups,alarm,https://perldoc.perl.org/5.32.0/functions/alarm.html,#NAME?,
+Functions for processes and process groups,exec,https://perldoc.perl.org/5.32.0/functions/exec.html,#NAME?,
+Functions for processes and process groups,fork,https://perldoc.perl.org/5.32.0/functions/fork.html,#NAME?,
+Functions for processes and process groups,getpgrp,https://perldoc.perl.org/5.32.0/functions/getpgrp.html,#NAME?,
+Functions for processes and process groups,getppid,https://perldoc.perl.org/5.32.0/functions/getppid.html,#NAME?,
+Functions for processes and process groups,getpriority,https://perldoc.perl.org/5.32.0/functions/getpriority.html,#NAME?,
+Functions for processes and process groups,kill,https://perldoc.perl.org/5.32.0/functions/kill.html,#NAME?,
+Functions for processes and process groups,pipe,https://perldoc.perl.org/5.32.0/functions/pipe.html,#NAME?,
+Functions for processes and process groups,qx/STRING/,https://perldoc.perl.org/5.32.0/functions/qx.html,#NAME?,
+Functions for processes and process groups,readpipe,https://perldoc.perl.org/5.32.0/functions/readpipe.html,#NAME?,
+Functions for processes and process groups,setpgrp,https://perldoc.perl.org/5.32.0/functions/setpgrp.html,#NAME?,
+Functions for processes and process groups,setpriority,https://perldoc.perl.org/5.32.0/functions/setpriority.html,--set-a-process's-nice-value,
+Functions for processes and process groups,sleep,https://perldoc.perl.org/5.32.0/functions/sleep.html,#NAME?,
+Functions for processes and process groups,system,https://perldoc.perl.org/5.32.0/functions/system.html,#NAME?,
+Functions for processes and process groups,times,https://perldoc.perl.org/5.32.0/functions/times.html,#NAME?,
+Functions for processes and process groups,wait,https://perldoc.perl.org/5.32.0/functions/wait.html,#NAME?,
+Functions for processes and process groups,waitpid,https://perldoc.perl.org/5.32.0/functions/waitpid.html,#NAME?,
+Keywords related to Perl modules,do,https://perldoc.perl.org/5.32.0/functions/do.html,#NAME?,
+Keywords related to Perl modules,import,https://perldoc.perl.org/5.32.0/functions/import.html,--patch-a-module's-namespace-into-your-own,
+Keywords related to Perl modules,no,https://perldoc.perl.org/5.32.0/functions/no.html,#NAME?,
+Keywords related to Perl modules,package,https://perldoc.perl.org/5.32.0/functions/package.html,#NAME?,
+Keywords related to Perl modules,require,https://perldoc.perl.org/5.32.0/functions/require.html,#NAME?,
+Keywords related to Perl modules,use,https://perldoc.perl.org/5.32.0/functions/use.html,#NAME?,
+Keywords related to classes and object-orientation,bless,https://perldoc.perl.org/5.32.0/functions/bless.html,#NAME?,
+Keywords related to classes and object-orientation,dbmclose,https://perldoc.perl.org/5.32.0/functions/dbmclose.html,#NAME?,
+Keywords related to classes and object-orientation,dbmopen,https://perldoc.perl.org/5.32.0/functions/dbmopen.html,#NAME?,
+Keywords related to classes and object-orientation,package,https://perldoc.perl.org/5.32.0/functions/package.html,#NAME?,
+Keywords related to classes and object-orientation,ref,https://perldoc.perl.org/5.32.0/functions/ref.html,#NAME?,
+Keywords related to classes and object-orientation,tie,https://perldoc.perl.org/5.32.0/functions/tie.html,#NAME?,
+Keywords related to classes and object-orientation,tied,https://perldoc.perl.org/5.32.0/functions/tied.html,#NAME?,
+Keywords related to classes and object-orientation,untie,https://perldoc.perl.org/5.32.0/functions/untie.html,#NAME?,
+Keywords related to classes and object-orientation,use,https://perldoc.perl.org/5.32.0/functions/use.html,#NAME?,
+Low-level socket functions,accept,https://perldoc.perl.org/5.32.0/functions/accept.html,#NAME?,
+Low-level socket functions,bind,https://perldoc.perl.org/5.32.0/functions/bind.html,#NAME?,
+Low-level socket functions,connect,https://perldoc.perl.org/5.32.0/functions/connect.html,#NAME?,
+Low-level socket functions,getpeername,https://perldoc.perl.org/5.32.0/functions/getpeername.html,#NAME?,
+Low-level socket functions,getsockname,https://perldoc.perl.org/5.32.0/functions/getsockname.html,#NAME?,
+Low-level socket functions,getsockopt,https://perldoc.perl.org/5.32.0/functions/getsockopt.html,#NAME?,
+Low-level socket functions,listen,https://perldoc.perl.org/5.32.0/functions/listen.html,#NAME?,
+Low-level socket functions,recv,https://perldoc.perl.org/5.32.0/functions/recv.html,#NAME?,
+Low-level socket functions,send,https://perldoc.perl.org/5.32.0/functions/send.html,#NAME?,
+Low-level socket functions,setsockopt,https://perldoc.perl.org/5.32.0/functions/setsockopt.html,#NAME?,
+Low-level socket functions,shutdown,https://perldoc.perl.org/5.32.0/functions/shutdown.html,#NAME?,
+Low-level socket functions,socket,https://perldoc.perl.org/5.32.0/functions/socket.html,#NAME?,
+Low-level socket functions,socketpair,https://perldoc.perl.org/5.32.0/functions/socketpair.html,#NAME?,
+System V interprocess communication functions,msgctl,https://perldoc.perl.org/5.32.0/functions/msgctl.html,#NAME?,
+System V interprocess communication functions,msgget,https://perldoc.perl.org/5.32.0/functions/msgget.html,#NAME?,
+System V interprocess communication functions,msgrcv,https://perldoc.perl.org/5.32.0/functions/msgrcv.html,#NAME?,
+System V interprocess communication functions,msgsnd,https://perldoc.perl.org/5.32.0/functions/msgsnd.html,#NAME?,
+System V interprocess communication functions,semctl,https://perldoc.perl.org/5.32.0/functions/semctl.html,#NAME?,
+System V interprocess communication functions,semget,https://perldoc.perl.org/5.32.0/functions/semget.html,#NAME?,
+System V interprocess communication functions,semop,https://perldoc.perl.org/5.32.0/functions/semop.html,#NAME?,
+System V interprocess communication functions,shmctl,https://perldoc.perl.org/5.32.0/functions/shmctl.html,#NAME?,
+System V interprocess communication functions,shmget,https://perldoc.perl.org/5.32.0/functions/shmget.html,#NAME?,
+System V interprocess communication functions,shmread,https://perldoc.perl.org/5.32.0/functions/shmread.html,#NAME?,
+System V interprocess communication functions,shmwrite,https://perldoc.perl.org/5.32.0/functions/shmwrite.html,#NAME?,
+Fetching user and group info,endgrent,https://perldoc.perl.org/5.32.0/functions/endgrent.html,#NAME?,
+Fetching user and group info,endhostent,https://perldoc.perl.org/5.32.0/functions/endhostent.html,#NAME?,
+Fetching user and group info,endnetent,https://perldoc.perl.org/5.32.0/functions/endnetent.html,#NAME?,
+Fetching user and group info,endpwent,https://perldoc.perl.org/5.32.0/functions/endpwent.html,#NAME?,
+Fetching user and group info,getgrent,https://perldoc.perl.org/5.32.0/functions/getgrent.html,#NAME?,
+Fetching user and group info,getgrgid,https://perldoc.perl.org/5.32.0/functions/getgrgid.html,#NAME?,
+Fetching user and group info,getgrnam,https://perldoc.perl.org/5.32.0/functions/getgrnam.html,#NAME?,
+Fetching user and group info,getlogin,https://perldoc.perl.org/5.32.0/functions/getlogin.html,#NAME?,
+Fetching user and group info,getpwent,https://perldoc.perl.org/5.32.0/functions/getpwent.html,#NAME?,
+Fetching user and group info,getpwnam,https://perldoc.perl.org/5.32.0/functions/getpwnam.html,#NAME?,
+Fetching user and group info,getpwuid,https://perldoc.perl.org/5.32.0/functions/getpwuid.html,#NAME?,
+Fetching user and group info,setgrent,https://perldoc.perl.org/5.32.0/functions/setgrent.html,#NAME?,
+Fetching user and group info,setpwent,https://perldoc.perl.org/5.32.0/functions/setpwent.html,#NAME?,
+Fetching network info,endprotoent,https://perldoc.perl.org/5.32.0/functions/endprotoent.html,#NAME?,
+Fetching network info,endservent,https://perldoc.perl.org/5.32.0/functions/endservent.html,=--be-done-using-services-file,
+Fetching network info,gethostbyaddr,https://perldoc.perl.org/5.32.0/functions/gethostbyaddr.html,#NAME?,
+Fetching network info,gethostbyname,https://perldoc.perl.org/5.32.0/functions/gethostbyname.html,=--get-host-record-given-name,
+Fetching network info,gethostent,https://perldoc.perl.org/5.32.0/functions/gethostent.html,#NAME?,
+Fetching network info,getnetbyaddr,https://perldoc.perl.org/5.32.0/functions/getnetbyaddr.html,#NAME?,
+Fetching network info,getnetbyname,https://perldoc.perl.org/5.32.0/functions/getnetbyname.html,#NAME?,
+Fetching network info,getnetent,https://perldoc.perl.org/5.32.0/functions/getnetent.html,#NAME?,
+Fetching network info,getprotobyname,https://perldoc.perl.org/5.32.0/functions/getprotobyname.html,#NAME?,
+Fetching network info,getprotobynumber,https://perldoc.perl.org/5.32.0/functions/getprotobynumber.html,#NAME?,
+Fetching network info,getprotoent,https://perldoc.perl.org/5.32.0/functions/getprotoent.html,=--get-next-protocols-record,
+Fetching network info,getservbyname,https://perldoc.perl.org/5.32.0/functions/getservbyname.html,#NAME?,
+Fetching network info,getservbyport,https://perldoc.perl.org/5.32.0/functions/getservbyport.html,#NAME?,
+Fetching network info,getservent,https://perldoc.perl.org/5.32.0/functions/getservent.html,=--get-next-services-record,
+Fetching network info,sethostent,https://perldoc.perl.org/5.32.0/functions/sethostent.html,=--prepare-hosts-file-for-use,
+Fetching network info,setnetent,https://perldoc.perl.org/5.32.0/functions/setnetent.html,#NAME?,
+Fetching network info,setprotoent,https://perldoc.perl.org/5.32.0/functions/setprotoent.html,#NAME?,
+Fetching network info,setservent,https://perldoc.perl.org/5.32.0/functions/setservent.html,#NAME?,
+Time-related functions,gmtime,https://perldoc.perl.org/5.32.0/functions/gmtime.html,#NAME?,
+Time-related functions,localtime,https://perldoc.perl.org/5.32.0/functions/localtime.html,#NAME?,
+Time-related functions,time,https://perldoc.perl.org/5.32.0/functions/time.html,#NAME?,
+Time-related functions,times,https://perldoc.perl.org/5.32.0/functions/times.html,#NAME?,
